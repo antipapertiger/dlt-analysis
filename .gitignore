@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+envs/
+
+# Data temp files
+*.tmp
+*.new
+TcDLT355history.txt.new
+
+# WorkBuddy
+.workbuddy/
+.cursor/
+
+# Backtest cache
+backtest_full_results.json
+
+# Building caches
+deploy/qrcode.png
+
+# OS files
+.DS_Store
+Thumbs.db
